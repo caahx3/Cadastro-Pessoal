@@ -1,12 +1,12 @@
 # Desafio Cadastro Pessoal - Formação Tech
 
 <p style="text-align: center">
- <img alt="Caroline Costa" scr=imagens/Carol.PNG  height="164px" />
+ <img alt="Caroline Costa" scr=imagens/Carol.PNG  height="164px"/>
 </p>
 
 <p style="text-align: center">
  <a href="https://www.linkedin.com/in/caroline-costa-2114a284/">
-  <img alt="Linkedin" scr="imagens/logolink.PNG" height="64px" />
+  <img alt="Linkedin" scr="imagens/logolink.PNG" height="64px"/>
  </a>
 </p>
 
