@@ -1,12 +1,12 @@
 # Desafio Cadastro Pessoal - Formação Tech
 
 <p style="text-align: center">
- <img alt="Caroline Costa"  height="164px" />
+ <img alt="Caroline Costa" scr="imagens/Carol.PNG"  height="164px" />
 </p>
 
 <p style="text-align: center">
  <a href="https://www.linkedin.com/in/caroline-costa-2114a284/">
-  <img alt="Linkedin"  height="64px" />
+  <img alt="Linkedin" scr="imagens/logolink.PNG" height="64px" />
  </a>
 </p>
 
@@ -33,7 +33,7 @@ Desenvolver para minha carreira profissional, buscar novos conhecimentos e novas
 
 ### Referências
 
-Regra: Os campos Nome, Cpf, Endereco, Numero, Telefone Celular são obrigatórios
-Requisitos: Explorar os recursos de CSS Explorar os recursos do Javascript
-Extras: O campo Sexo pode ser do tipo select com com as opções M = Masculino, F = Feminino Usar template aplicado nas aulas Disponibilizar o link do github do projeto bem descrito quanto às funcionalidades, implementações relevantes e links de pesquisas
+- Regra: Os campos Nome, Cpf, Endereco, Numero, Telefone Celular são obrigatórios;
+- Requisitos: Explorar os recursos de CSS Explorar os recursos do Javascript;
+- Extras: O campo Sexo pode ser do tipo select com com as opções M = Masculino, F = Feminino Usar template aplicado nas aulas Disponibilizar o link do github do projeto bem descrito quanto às funcionalidades, implementações relevantes e links de pesquisas;
 
