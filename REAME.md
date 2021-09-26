@@ -14,13 +14,11 @@
     - [Autor](#autor)
     - [Descrição](#descrição)
     - [Objetivo](#objetivo)
-    - [Ferramenta](#ferramenta)
-    - [Linguagens](#linguagens)
     - [Referências](#referências)
 
-### Autor:
+### Autora:
 
-- [Caroline da Silva Costa]
+- Caroline da Silva Costa
 - **Idade**: 29 anos
 - **Tipo de deficiência:** Auditiva
 
@@ -30,7 +28,7 @@ Bacharelada em Administração de empresas pela FMU e pós-graduação em MBA Ge
 
 ### Objetivo:
 
-Desenvolver na carreira, buscar novos conhecimentos e novas oportunidades.
+Desenvolver para minha carreira profissional, buscar novos conhecimentos e novas oportunidades.
 
 
 ### Referências
