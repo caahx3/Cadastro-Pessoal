@@ -35,7 +35,7 @@ Desenvolver na carreira, buscar novos conhecimentos e novas oportunidades.
 
 ### Referências
 
-- [JS Simple Validations](https://github.com/tarponjargon/js-simple-validations): Um pequeno complemento em puro JavaScript ES6 que facilita a validação por meio de expressões regulares e depura as bordas verde ou vermelha caso os campos sejam válidos ou não. 
-- [Expressão regular de telefone celular e fixo](https://gist.github.com/reggiegutter/5516382): Uma expressão regular completa de ambos os telefones celulares e fixo. 
-- [Expressão regular de CPF/CNPJ](https://pt.stackoverflow.com/questions/133691/formatar-campo-cpf-ou-cnpj-usando-regex): Uma expressão regular completa e válida de ambos CPF e CNPJ.
+Regra: Os campos Nome, Cpf, Endereco, Numero, Telefone Celular são obrigatórios
+Requisitos: Explorar os recursos de CSS Explorar os recursos do Javascript
+Extras: O campo Sexo pode ser do tipo select com com as opções M = Masculino, F = Feminino Usar template aplicado nas aulas Disponibilizar o link do github do projeto bem descrito quanto às funcionalidades, implementações relevantes e links de pesquisas
 
