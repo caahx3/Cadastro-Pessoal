@@ -1,7 +1,7 @@
 # Desafio Cadastro Pessoal - Formação Tech
 
 <p style="text-align: center">
- <img alt="Caroline Costa" scr="imagens/Carol.PNG"  height="164px" />
+ <img alt="Caroline Costa" scr=imagens/Carol.PNG  height="164px" />
 </p>
 
 <p style="text-align: center">
